@@ -20,7 +20,7 @@ description: Marine Biologist/Quantitative Ecologist
 ###############################################
 
 navbar-links:
-  CV: "WebsiteCV.pdf"
+  CV: "https://ETJarvisMason.github.io/WebsiteCV.pdf"
   Research:
     - Demographic rates: "multistate"    
     - Taxonomic calibration: "classification"
