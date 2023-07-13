@@ -3,7 +3,6 @@ layout: page
 title: CCFRP
 subtitle: California Collaborative Fisheries Research Program
 cover-img: 
-  - "img/big-img/SumFun_CCFRPFishing_wide.jpg" : "Morning Glass"
   - "/img/big-img/kelpbass_wide.jpg" : "Tagging Kelp Bass / CCFRP"
   - "/img/big-img/BSB_redcrab_wide.jpg" : "Barred Sand Bass With Tuna Crab / CCFRP"
   - "/img/big-img/SumFun_CCFRPFishing_wide.jpg" : "Morning on the water for CCFRP / Erica Mason"
