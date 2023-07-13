@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A Robust Taxonomic Key
-subtitle: to the southern California bass larvae 
+title: Development of a Robust Taxonomic Key
+subtitle:  
 
 cover-img: 
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
