@@ -13,4 +13,4 @@ Check out more barotrauma-related information here:
 
 **An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication** 
 
-**Great one-stop shop for all things rockfish barotrauma**
+**Great one-stop shop for all things rockfish barotrauma** [CDFW Page](% link https://wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma %)
