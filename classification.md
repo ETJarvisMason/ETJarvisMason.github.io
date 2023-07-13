@@ -1,13 +1,19 @@
 ---
 layout: page
-title: A Robust Taxonomic Key
-subtitle:  
+title: Chapter 2
+subtitle: A Robust Taxonomic Key  
 
 cover-img: 
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
   - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
 ---
+Here, I focus on constructing and validating a robust taxonomic key for discriminating southern California bass larvae. This research was the foundation for the subsequent species-specific, long-term spatiotemporal analyses of bass larval dynamics in Chapter 3.
+
+This research was supported by a grant awarded by the California Ocean Protection Council (Proposition 84 Competitive Grant Program, Project R/OPCSFAQ-09) and administered by the California Sea Grant College Program. The following synopsis is taken from our publication in _FishTaxa_.
+
 ## _**Decoding comparable morphologies: pigmentation validated for identifying southern California Paralabrax larvae**_
+
+
 
 ### **Abstract**
 
