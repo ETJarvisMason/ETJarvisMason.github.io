@@ -4,8 +4,7 @@ title: Increasing Taxonomic Quality Assurance
 subtitle:  
 
 cover-img: 
-  - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
-  - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
+  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern Calfiornia Larval Fishes / M Human"
 ---
 ## _**A robust template for increasing taxonomic quality assurance during an era of decreasing taxonomic capacity**_
 
