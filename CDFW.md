@@ -11,6 +11,6 @@ Enjoy a few of the articles written on our research endeavors, including our run
 
 **All the nerdy details** [California_Fish_and_Game_95(4):188-192]({% link pages/Journal_95_4_Final_5_24_2010.pdf %}) 
 
-**A really nice article written by my dear friend, Heather** [nearshore]({% link pages/14-19_Netting Nearshore.pdf %})
+**A really nice Outdoor California article written by my dear friend, Heather** [nearshore]({% link pages/14-19_Netting Nearshore.pdf %})
 
 
