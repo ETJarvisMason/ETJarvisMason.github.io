@@ -3,7 +3,8 @@ layout: page
 title: Connecting Science with Policy
 subtitle: The Saltwater Basses
 cover-img:
-  - "img/big-img/Halibut2.jpg" : "California Halibut at Belmont Shore"
+  - "img/big-img/ABacharBSB.jpg" : "Barred Sand Bass, by A Bachar"
+  - "img/big-img/ABacharKB.jpg" : "Kelp Bass, by A Bachar"
 ---
 As a former Environmental Scientist with the California Department of Fish and Wildlife's Marine Region (Department), I had the opportunity to blend science and policy. In response to the public’s concern regarding the status of the kelp bass and barred sand bass resources in southern California, the Department initiated a fishery analysis for both species in the fall of 2010.  I was able to take the results of our research and provide regulation change recommendations to Marine Resources Committee of the California Fish and Game Commission (FGC), and later, to the full FGC. The process was engaging and rewarding. We met and consulted with a variety of constituents, including the sportfishing industry, angling groups, NGOs, academic partners, and other state governments. Suffice it to say, not everyone was in agreement about what changes to the regulations needed to be made or even about their level of concern for the resource. The public process included multiple hearings before the FGC, with opportunities at each meeting for public comment. Eventually, the efforts of all involved resulted in a reduction in the bag limit from 10 fish (with not more than 10 of all species combined) to 5 fish (with not more than 5 of all species combined) and an increase to the minimum size limit from 12 inches total length to 14 inches total length. These represented the first changes to the saltwater bass fishery regulations since 1975 (bag limit) and 1959 (MSL). A partial spawning season closure specific to Barred SAnd Bass, was another option considered by the FGC. Fishery recruits are now approximately seven to eight years old, corresponding to roughly three to four years of spawning before reaching fishery size. 
 
@@ -14,3 +15,12 @@ Check out our publications on the saltwater basses here:
 [Walker, K.M., K.M. Penttila, **E. Jarvis-Mason**, C.F. Valle. 2020. Validated age and growth of Barred Sand Bass within the southern California Bight. California Fish and Game 104(4):205-215.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
 
 [**Jarvis, E.T.**, H.L. Gliniak, and C.F. Valle. 2014. Effects of fishing and the environment on the long-term sustainability of the recreational saltwater bass fishery in southern California. California Fish and Game 100(2):234-259.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+
+[**Jarvis, E.T.**, K.A. Loke-Smith, K. Evans, R.E. Kloppe, K.A. Young, and C.F. Valle. 2014. Reproductive potential and spawning periodicity in barred sand bass (_Paralabrax nebulifer_) from the San Pedro Shelf, southern California. California Fish and Game 100(2):289-309.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+
+[McKinzie, M., **E.T. Jarvis**, and C.G. Lowe. 2014. Fine-scale horizontal and vertical movement of barred sand bass, _Paralabrax nebulifer_, during spawning and non-spawning seasons. Fisheries Research 150:66-75.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+
+[**Jarvis, E.T.**, C. Linardich, and C.F. Valle. 2010. Spawning-related movements of barred sand bass, Paralabrax nebulifer, in southern California:  Interpretations from two decades of historical tag and recapture data. southern California Academy of Sciences Bulletin 109:123-143.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+
+
+
