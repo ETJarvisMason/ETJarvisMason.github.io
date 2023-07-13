@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Good Times with Fish and Game
+subtitle: Beach Seining Days
 cover-img: 
   - "img/big-img/TeamAtNatHistMus.jpg" : "Accessioning at NHMLAC"
 ---
