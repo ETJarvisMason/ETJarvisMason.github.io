@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Development of a Robust Taxonomic Key
+title: A Robust Taxonomic Key
 subtitle:  
 
 cover-img: 
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
   - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
-  - "img/big-img/Paralabrax_11_wide.jpg" : "Key to the southern California bass larvae / ET Jarvis Mason"
 ---
 ## _**Decoding comparable morphologies: pigmentation validated for identifying southern California Paralabrax larvae**_
 
