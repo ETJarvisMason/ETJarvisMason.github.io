@@ -3,6 +3,7 @@ layout: page
 title: Good Times with Fish and Game
 subtitle: Beach Seining Days
 cover-img:
+  - "img/big-img/Halibut.jpg" : "California Halibut at Belmont Shore"
   - "img/big-img/TeamAtNatHistMus.jpg" : "Accessioning at NHMLAC"
   - "img/big-img/Bolsa.jpg" : "Beach Seining at Bolsa Chica"
 ---
