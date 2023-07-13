@@ -9,7 +9,7 @@ As a former Environmental Scientist with California's Department of Fish and Wil
 
 Enjoy a few of the articles written on our research endeavors, including the first occurrence of juvenile Mexican Lookdown in southern California...
 
-**"That looks like a Lookdown!"**  {% link {{ page.aboutme.md }} %}
+**"That looks like a Lookdown!"**  {% link {{ page.my_variable }} %}
 
 **Results**
 
