@@ -13,4 +13,4 @@ Check out more barotrauma-related information here:
 
 **An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication...read about our cool study design and implications for management** [Bloating]({% link pages/Bloating.pdf %}) 
 
-**Great one-stop shop for all things rockfish barotrauma** [CDFW Page](www.wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma)
+**Great one-stop shop for all things rockfish barotrauma** <a href = "https://wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma">CDFW Page</a>
