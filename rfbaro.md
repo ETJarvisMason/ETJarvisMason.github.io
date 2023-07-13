@@ -9,7 +9,7 @@ My Master's research at California State University, Long Beach, under the direc
 
 Check out more information here:
 
-**"An informative brochure I collaborated on with Christina Johnson of California Sea Grant"** [Bring That Rockfish Down!]({% link pages/MMNewsArticle_GliniakJan2010.pdf %}) 
+**"An informative brochure I collaborated on with Christina Johnson of California Sea Grant"** [Bring That Rockfish Down!]({% link pages/barotrauma14.pdf %}) 
 
 **An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication** [Bloating and Floating]({% link https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=36345&inline %}) 
 
