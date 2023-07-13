@@ -22,14 +22,14 @@ description: Marine Biologist/Quantitative Ecologist
 navbar-links:
   CV: "https://ETJarvisMason.github.io/Resume_JULY_2023_5pp_ETMason.pdf"
   #About Me: "aboutme"
-  Life Before PhD:
+  Life Before Ph.D.:
     - Master's: "rfbaro"
     - CDFW Research: "CDFW"
     - CDFW Policy: "bass"
   CCFRP: "ccfrp"
-  PhD Research:
+  Ph.D. Research:
     - Population Dynamics: "bsb"    
-    - Larval _Paralabrax_: "classification"
+    - Larval Paralabrax: "classification"
     - Taxonomic Quality Control: "qa"
     - Larval Recruitment: "fish"
 
