@@ -13,4 +13,4 @@ Check out more information here:
 
 **An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication** 
 
-**Great all-around source of information** [CDFW]({% link https://wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma %})
+**Great all-around source of information**
