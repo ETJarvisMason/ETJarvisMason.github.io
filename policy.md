@@ -20,7 +20,7 @@ See below for our science related to the saltwater basses:
 
 [McKinzie, M., **E.T. Jarvis**, and C.G. Lowe. 2014. Fine-scale horizontal and vertical movement of barred sand bass, _Paralabrax nebulifer_, during spawning and non-spawning seasons. Fisheries Research 150:66-75.]({% link pages/FinscaleBSBMovement.pdf %})
 
-[**Jarvis, E.T.**, C. Linardich, and C.F. Valle. 2010. Spawning-related movements of barred sand bass, Paralabrax nebulifer, in southern California:  Interpretations from two decades of historical tag and recapture data. southern California Academy of Sciences Bulletin 109:123-143.]({% link pages/Spawning-Related_Movements_of_Barred_Sand_Bass_Par.pdf %})
+[**Jarvis, E.T.**, C. Linardich, and C.F. Valle. 2010. Spawning-related movements of barred sand bass, _Paralabrax nebulifer_, in southern California:  Interpretations from two decades of historical tag and recapture data. southern California Academy of Sciences Bulletin 109:123-143.]({% link pages/Spawning-Related_Movements_of_Barred_Sand_Bass_Par.pdf %})
 
 
 
