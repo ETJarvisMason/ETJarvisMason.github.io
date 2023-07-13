@@ -11,6 +11,6 @@ Check out more barotrauma-related information here:
 
 **An informative brochure I collaborated on with Christina Johnson of California Sea Grant"** [Bring That Rockfish Down!]({% link pages/barotrauma14.pdf %}) 
 
-**An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication...read about our cool study design and implications for management** [Bloating] ({% link pages/Bloating.pdf %}) 
+**An article co-written by myself and Chris Lowe for The Slate, an AAUS dive publication...read about our cool study design and implications for management** [Bloating]({% link pages/Bloating.pdf %}) 
 
 **Great one-stop shop for all things rockfish barotrauma** [CDFW Page](% link www.wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma %)
