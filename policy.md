@@ -12,15 +12,15 @@ Despite the benefits these changes were intended to bring, the fishery has yet t
 
 See below for our science related to the saltwater basses:
 
-[Walker, K.M., K.M. Penttila, **E. Jarvis-Mason**, C.F. Valle. 2020. Validated age and growth of Barred Sand Bass within the southern California Bight. California Fish and Game 104(4):205-215.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+[Walker, K.M., K.M. Penttila, **E. Jarvis-Mason**, C.F. Valle. 2020. Validated age and growth of Barred Sand Bass within the southern California Bight. California Fish and Game 104(4):205-215.]({% link pages/Validated_age_and_growth_of_Barred_Sand_Bass.pdf %})
 
-[**Jarvis, E.T.**, H.L. Gliniak, and C.F. Valle. 2014. Effects of fishing and the environment on the long-term sustainability of the recreational saltwater bass fishery in southern California. California Fish and Game 100(2):234-259.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+[**Jarvis, E.T.**, H.L. Gliniak, and C.F. Valle. 2014. Effects of fishing and the environment on the long-term sustainability of the recreational saltwater bass fishery in southern California. California Fish and Game 100(2):234-259.]({% link pages/Jarvisetal_2014_Effects.pdf %})
 
-[**Jarvis, E.T.**, K.A. Loke-Smith, K. Evans, R.E. Kloppe, K.A. Young, and C.F. Valle. 2014. Reproductive potential and spawning periodicity in barred sand bass (_Paralabrax nebulifer_) from the San Pedro Shelf, southern California. California Fish and Game 100(2):289-309.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+[**Jarvis, E.T.**, K.A. Loke-Smith, K. Evans, R.E. Kloppe, K.A. Young, and C.F. Valle. 2014. Reproductive potential and spawning periodicity in barred sand bass (_Paralabrax nebulifer_) from the San Pedro Shelf, southern California. California Fish and Game 100(2):289-309.]({% link pages/Jarvisetal_2014_BSBReproduction.pdf %})
 
-[McKinzie, M., **E.T. Jarvis**, and C.G. Lowe. 2014. Fine-scale horizontal and vertical movement of barred sand bass, _Paralabrax nebulifer_, during spawning and non-spawning seasons. Fisheries Research 150:66-75.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+[McKinzie, M., **E.T. Jarvis**, and C.G. Lowe. 2014. Fine-scale horizontal and vertical movement of barred sand bass, _Paralabrax nebulifer_, during spawning and non-spawning seasons. Fisheries Research 150:66-75.]({% link pages/FinscaleBSBMovement.pdf %})
 
-[**Jarvis, E.T.**, C. Linardich, and C.F. Valle. 2010. Spawning-related movements of barred sand bass, Paralabrax nebulifer, in southern California:  Interpretations from two decades of historical tag and recapture data. southern California Academy of Sciences Bulletin 109:123-143.]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+[**Jarvis, E.T.**, C. Linardich, and C.F. Valle. 2010. Spawning-related movements of barred sand bass, Paralabrax nebulifer, in southern California:  Interpretations from two decades of historical tag and recapture data. southern California Academy of Sciences Bulletin 109:123-143.]({% link pages/Spawning-Related_Movements_of_Barred_Sand_Bass_Par.pdf %})
 
 
 
