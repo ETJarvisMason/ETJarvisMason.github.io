@@ -4,7 +4,7 @@ title: Chapter 4
 subtitle: Larval Bass Recruitment Dynamics 
 
 cover-img: 
-  - "img/big-img/KBPretty.jpg" : "Kelp Bass in Kelp Forest"
+  - "img/big-img/KB2.jpg" : "Kelp Bass"
   - "img/big-img/mesh.png" : "Geostatistical Mesh Created in sdmTMB"
   - "img/big-img/transitionZone.jpg" : "Oceanographic Transition Zone off Baja California"
   - "img/big-img/cpfv.jpg" : "Commercial Passenger Fishing Vessel"
