@@ -4,7 +4,7 @@ title: Pop Dy
 subtitle: 
 
 cover-img: 
-  - "img/big-img/bsb.png" : "Barred Sand Bass"
+  - "img/big-img/barredsandbassjn-L.jpg" : "Barred Sand Bass"
 ---
 ## _**Recruitment limitation increases susceptibility to fishing-induced collapse in a spawning aggregation fishery**_
 
