@@ -7,13 +7,16 @@ cover-img:
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
   - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
 ---
-Here, I focus on constructing and validating a robust taxonomic key for discriminating southern California bass larvae. This research was the foundation for the subsequent species-specific, long-term spatiotemporal analyses of bass larval dynamics in Chapter 3.
+Here, I focus on constructing and validating a robust taxonomic key for discriminating southern California bass larvae. This research was the foundation for the subsequent species-specific, long-term spatiotemporal analyses of bass larval dynamics in Chapter 4.
 
 This research was supported by a grant awarded by the California Ocean Protection Council (Proposition 84 Competitive Grant Program, Project R/OPCSFAQ-09) and administered by the California Sea Grant College Program. The following synopsis is taken from our publication in _FishTaxa_.
 
 ## _**Decoding comparable morphologies: pigmentation validated for identifying southern California Paralabrax larvae**_
 
+*Erica T. Jarvis Mason<sup>1,2</sup>, Lucille Bulkeley<sup>1</sup>, William W. Watson<sup>2</sup>, Allyson C. Salazar Sawkins<sup>1</sup>, Matthew T. Craig<sup>2</sup>, John R. Hyde<sup>2</sup>, Andrew R. Thompson<sup>2</sup>, Brice X. Semmens<sup>1</sup>*
 
+<sup>1</sup>Scripps Institution of Oceanography, University of California San Diego, California, USA  
+<sup>2</sup>2Fisheries Resources Division, Southwest Fisheries Science Center, NOAA Fisheries, California, USA  
 
 ### **Abstract**
 
