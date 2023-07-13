@@ -24,15 +24,13 @@ navbar-links:
   #About Me: "aboutme"
   Life Before PhD:
     - Master's: "rfbaro"
-    - CDFW: 
-        -Seining Days: "CDFW"
-        -Policy: "bass"
+    - CDFW Research: "CDFW"
+    - CDFW Policy: "bass"
   CCFRP: "ccfrp"
   PhD Research:
-    - Pop Dy: "bsb"    
-    - Taxonomy: 
-         - Larval _Paralabrax_: "classification"
-         - Quality Control: "qa"
+    - Population Dynamics: "bsb"    
+    - Larval _Paralabrax_: "classification"
+    - Taxonomic Quality Control: "qa"
     - Larval Recruitment: "fish"
 
 ################
