@@ -4,7 +4,7 @@ title: Chapter 3
 subtitle: Increasing Taxonomic Quality Assurance 
 
 cover-img: 
-  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern California Larval Fishes / M Human"
+  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern California Fish Larvae / M Human"
 ---
 Borne out of my research presented in Chapter 2, this work is a methods contribution to the field of taxonomy and highlights a suite of tools for increasing taxonomic quality assurance of taxonomic classifications. 
 
