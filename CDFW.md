@@ -3,7 +3,7 @@ layout: page
 title: Good Times with Fish and Game
 subtitle: Beach Seining Days
 cover-img: 
-  - ["img/big-img/TeamAtNatHistMus.jpg" : "img/big-img/HistoricalBeachSeinePhoto1.jpg"]
+  - ["img/big-img/TeamAtNatHistMus.jpg","img/big-img/HistoricalBeachSeinePhoto1.jpg"]
 images-array:
  - image: "img/big-img/TeamAtNatHistMus.jpg"
    alt: This is some alt text
