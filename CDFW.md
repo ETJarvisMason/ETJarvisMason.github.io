@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Great Times with Fish and Game
+my_variable: aboutme.md
 bigimg:
   - "/img/big-img/BSB_redcrab_wide.jpg"
 ---
@@ -8,7 +9,7 @@ As a former Environmental Scientist with California's Department of Fish and Wil
 
 Enjoy a few of the articles written on our research endeavors, including the first occurrence of juvenile Mexican Lookdown in southern California...
 
-**"That looks like a Lookdown!"**  {(% link aboutme.md %)}
+**"That looks like a Lookdown!"**  {% link {{ page.aboutme.md }} %}
 
 **Results**
 
