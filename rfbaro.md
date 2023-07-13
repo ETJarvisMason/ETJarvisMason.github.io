@@ -15,6 +15,6 @@ Check out more about our research and barotrauma-related information below:
 
 **An article co-written by myself and Chris Lowe for The Slate, an American Academy of Underwater Sciences news publication...read about our cool study design and implications of our results for management** [Bloating]({% link pages/Bloating.pdf %}) 
 
-**Our publication** <a href = https://cdnsciencepub.com/doi/10.1139/F08-071>Jarvis & Lowe 2008</a> 
+**Our publication** <a href = "https://cdnsciencepub.com/doi/10.1139/F08-071">Jarvis & Lowe 2008</a> 
 
 **Great one-stop shop for all things rockfish barotrauma** <a href = "https://wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma">CDFW Page</a>
