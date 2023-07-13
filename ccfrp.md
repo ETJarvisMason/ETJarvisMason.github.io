@@ -13,6 +13,6 @@ See below for a link to our publication and for more info on CCFRP, including ho
 
 **Short video** <a href = "https://youtu.be/Y5w4fggjncI">CCFRP Video</a>
 
-**Our publication**  
+**Our publication** [Longterm Participation]({% link pages/barotrauma14.pdf %}) 
 
 **CCFRP website...make sure to click on the Get Involved link in the right panel** <a href = "https://mlml.sjsu.edu/fisheries/ccfrp/">Website</a>
