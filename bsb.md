@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Pop Dy
-subtitle: 
+title: Chapter 1
+subtitle: Population Dynamics of Barred Sand Bass 
 
 cover-img: 
   - "img/big-img/barredsandbassjn-L.jpg" : "Barred Sand Bass"
 ---
+My Ph.D. research was influenced by research I conducted on the southern California recreational saltwater bass fishery during my time with the California Department of Fish and Wildlife. In my first chapter, I focus on unraveling the complex drivers influencing the population dynamics of an important sportfish, once heavily targeted on its spawning aggregations.
+
+This research was supported with a QUEST grant awarded by NOAA Fisheries to B.X. Semmens. The following synopsis is taken from our manuscript submitted to _Marine Ecology Progress Series_ and is currently in revision. 
+
 ## _**Recruitment limitation increases susceptibility to fishing-induced collapse in a spawning aggregation fishery**_
 
 *Erica T. Jarvis Mason<sup>1</sup>, Thomas V. Riecke<sup>2</sup>, Lyall F. Bellquist<sup>1,3</sup>, Daniel J. Pondella II<sup>4</sup>, Brice X. Semmens<sup>1</sup>*
