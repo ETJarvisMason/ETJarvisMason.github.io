@@ -22,8 +22,9 @@ description: Marine Biologist/Quantitative Ecologist
 navbar-links:
   CV: "https://ETJarvisMason.github.io/Resume_JULY_2023_5pp_ETMason.pdf"
   #About Me: "aboutme"
-  Rockfish Barotrauma: "rfbaro"
-  Good Times: "CDFW"
+  Life Before PhD:
+    - Master's: "rfbaro"
+    - CDFW: "CDFW"
   CCFRP: "ccfrp"
   PhD Research:
     - Pop Dy: "bsb"    
