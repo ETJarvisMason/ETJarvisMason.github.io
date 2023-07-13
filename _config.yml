@@ -27,7 +27,9 @@ navbar-links:
   CCFRP: "ccfrp"
   PhD Research:
     - Pop Dy: "bsb"    
-    - Taxonomy: "classification"
+    - Taxonomy: 
+         - "key"
+         - "qa"
     - Larval Recruitment: "fish"
 
 ################
