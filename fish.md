@@ -4,7 +4,12 @@ title: Chapter 4
 subtitle: Larval Bass Recruitment Dynamics 
 
 cover-img: 
-  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern California Fish Larvae / M Human"
+  - "img/big-img/KBPretty.jpg" : "Kelp Bass in Kelp Forest"
+  - "img/big-img/mesh.png" : "Geostatistical Mesh Created in sdmTMB"
+  - "img/big-img/transitionZone.jpg" : "Oceanographic Transition Zone off Baja California"
+  - "img/big-img/cpfv.jpg" : "Commercial Passenger Fishing Vessel"
+  - "img/big-img/ABacharBSB.jpg" : "Barred Sand Bass, by A. Bachar"
+  - "img/big-img/ABacharKB.jpg" : "Kelp Bass, by A. Bachar"
 ---
 Here, we reconstruct the long-term population dynamics of southern California _Paralabrax_, in the face of a changing ocean. Collectively, our results pave the way for an ecosystem approach to the management of this fishery and bring us closer to readying the fishery for climate change.    
 
