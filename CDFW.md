@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Good Times with Fish and Game
-bigimg:
-  - "img/big-img/TeamAtNatHistMus.jpg"
+bigimg: "img/big-img/TeamAtNatHistMus.jpg"
 ---
 As a former Environmental Scientist with California's Department of Fish and Wildlife Marine Region, I had exposure to a wide range of research and policy and experiences. The focus of our group, formerly known as the 'Fisheries Independent/SCUBA Assessment Project", was to collect fishery-independent data on southern California nearshore fishes to help inform management of the status of fish stocks. One of the projects having a lasting impression on me was our nearshore surf zone fish study, in which we conducted monthly beach seines at four different beaches (4 replicates per beach per month) for two and half years. What an experience!
 
