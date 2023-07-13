@@ -8,7 +8,7 @@ cover-img:
 ---
 My Ph.D. research was influenced by research I conducted on the southern California recreational saltwater bass fishery during my time with the California Department of Fish and Wildlife. In my first chapter, I focus on unraveling the complex drivers influencing the population dynamics of an important sportfish, once heavily targeted on its spawning aggregations.
 
-This research was supported with a QUEST grant awarded by NOAA Fisheries to B.X. Semmens. The following synopsis is taken from our manuscript submitted to _Marine Ecology Progress Series_ and is currently in revision. 
+This research was supported with a QUEST grant awarded by NOAA Fisheries to B.X. Semmens. The following synopsis is taken from our manuscript, which is currently in revision for publication in _Marine Ecology Progress Series_. 
 
 ## _**Recruitment limitation increases susceptibility to fishing-induced collapse in a spawning aggregation fishery**_
 
