@@ -6,16 +6,12 @@ bigimg:
 ---
 As a former Environmental Scientist with California's Department of Fish and Wildlife Marine Region, I had exposure to a wide range of research and policy and experiences. The focus of our group, formerly known as the 'Fisheries Independent/SCUBA Assessment Project", was to collect fishery-independent data on southern California nearshore fishes to help inform management of the status of fish stocks. One of our projects was a nearshore surf zone fish study, in which we would conduct monthly beach seines at four different beaches (4 replicates per beach per month). We did this for two and half years, and what an experience!
 
-Enjoy a few of the articles written on our research endeavors, including the first occurrence of juvenile Mexican Lookdown in southern California...
+Enjoy a few of the articles written on our research endeavors, including our run in with two juvenile Mexican Lookdown in southern California...
 
-**"That looks like a Lookdown!"** [lookdown]({% link pages/MMNewsArticle_GliniakJan2010.pdf %})
+**"That looks like a Lookdown!"** [lookdown]({% link pages/MMNewsArticle_GliniakJan2010.pdf %}) 
 
-**Results**
+**All the nerdy details** [California Fish and Game 95(4):188-192] ({% link pages/Journal 95 (4) Final 5-24-2010.pdf %}) 
+
+**A really nice article written by my dear friend, Heather** [nearshore]({% link pages/14-19_Netting Nearshore.pdf %})
 
 
-**Conclusions**
-
-
-**Next Steps**
-
-This work has been submitted for publication.
