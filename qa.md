@@ -4,7 +4,7 @@ title: Increasing Taxonomic Quality Assurance
 subtitle:  
 
 cover-img: 
-  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern Calfiornia Larval Fishes / M Human"
+  - "img/big-img/LarvalFishPosterMHuman.PNG" : "Southern California Larval Fishes / M Human"
 ---
 ## _**A robust template for increasing taxonomic quality assurance during an era of decreasing taxonomic capacity**_
 
