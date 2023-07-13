@@ -6,7 +6,6 @@ subtitle:
 cover-img: 
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
   - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
-  -  "/img/big-img/D_Flexion_Clathratus_wide.jpg" : "Kelp Bass Flexion Larva / Allyson Salazar Sawkins"
 ---
 ## _**Decoding comparable morphologies: pigmentation validated for identifying southern California Paralabrax larvae**_
 
