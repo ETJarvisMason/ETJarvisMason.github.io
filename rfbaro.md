@@ -9,12 +9,12 @@ My Master's research at California State University, Long Beach, under the direc
 
 Our research helped to demonstrate that rockfish survival is species-specific and that the severity of barotrauma signs is not a useful predictor of survival. Rather, time is of the essence, no matter the species or how badly the fish looks. With the use of descending devices (i.e., simple devices available to anglers to recompress fish), many rockfishes suffering barotrauma can show high survival if released back to depth quickly. Importantly, as a result of this research and a wealth of subsequent studies, fishery managers in California now have a better understanding of rockfish discard mortality.  
 
-Check out more about our research and barotrauma-related information here:
+Check out more about our research and barotrauma-related information below:
 
 **An informative brochure I collaborated on with Christina Johnson of California Sea Grant"** [Bring That Rockfish Down!]({% link pages/barotrauma14.pdf %}) 
 
 **An article co-written by myself and Chris Lowe for The Slate, an American Academy of Underwater Sciences news publication...read about our cool study design and implications of our results for management** [Bloating]({% link pages/Bloating.pdf %}) 
 
-**Our publication, for those wanting the nitty, gritty details** <a href = https://cdnsciencepub.com/doi/10.1139/F08-071>Jarvis & Lowe 2008</a> 
+**Our publication** <a href = https://cdnsciencepub.com/doi/10.1139/F08-071>Jarvis & Lowe 2008</a> 
 
 **Great one-stop shop for all things rockfish barotrauma** <a href = "https://wildlife.ca.gov/Conservation/Marine/Groundfish/Barotrauma">CDFW Page</a>
