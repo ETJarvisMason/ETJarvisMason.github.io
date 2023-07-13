@@ -3,11 +3,11 @@ layout: page
 title: Good Times with Fish and Game
 subtitle: Beach Seining Days
 cover-img: 
-  - "img/big-img/TeamAtNatHistMus.jpg" : "Accessioning at NHMLAC"
+  - ["img/big-img/TeamAtNatHistMus.jpg", HistoricalBeachSeinePhoto1.jpg] : ["Accessioning at NHMLAC", "Seining in the Old Days"]
 ---
-As a former Environmental Scientist with the California Department of Fish and Wildlife's Marine Region, I had exposure to a wide range of research and policy and experiences. The focus of our research group, formerly known as the 'Fisheries Independent/SCUBA Assessment Project", was to collect fishery-independent data on southern California nearshore fishes to help inform management on the status of fish stocks. One of the projects having a lasting impression on me was our nearshore surf zone fish study, in which we conducted monthly beach seines at four different beaches (4 replicates per beach per month) for two and half years. What an experience!
+As a former Environmental Scientist with the California Department of Fish and Wildlife's Marine Region, I had exposure to a wide range of research and policy and experiences. The focus of our research group, formerly known as the 'Fisheries Independent/SCUBA Assessment Project", was to collect fishery-independent data on southern California nearshore fishes to help inform management on the status of fish stocks. One of the many, fun projects having a lasting impression on me was our nearshore surf zone fish study, in which we conducted monthly beach seines at four different beaches (4 replicates per beach per month) for two and half years.
 
-Enjoy a few of the articles written about our research endeavors, including a run-in with two juvenile Mexican Lookdown in Seal Beach, California, USA...
+Enjoy a few of the articles written about our beach seining days, including an encounter with two juvenile Mexican Lookdown in Seal Beach, California, USA...
 
 **"That looks like a Lookdown!"** [lookdown]({% link pages/MMNewsArticle_GliniakJan2010.pdf %}) 
 
