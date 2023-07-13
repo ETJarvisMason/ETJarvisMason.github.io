@@ -21,12 +21,11 @@ description: Marine Biologist/Quantitative Ecologist
 
 navbar-links:
   CV: "https://ETJarvisMason.github.io/WebsiteCV.pdf"
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Good Times: "CDFW"
-  PhD Research:
-    - Demographic rates: "multistate"    
+  #PhD Research:
+  #  - Demographic rates: "multistate"    
   #  - Taxonomic calibration: "classification"
-  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
