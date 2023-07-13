@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Great times with Fish and Game
+title: Great Times with Fish and Game
 bigimg:
   - "/img/big-img/BSB_redcrab_wide.jpg"
 ---
