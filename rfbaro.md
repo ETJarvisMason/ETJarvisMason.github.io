@@ -5,6 +5,7 @@ subtitle: Bloating and Floating Don't Have To Spell Death
 cover-img: 
   - "img/big-img/OuterLimits_NOAACowcodTaggingStudy 032.jpg" : "NOAA Cowcod Tagging Trip"
   - "img/big-img/jumpingIn.png" : "Cage Retrievals"
+  _ "img/big-img/cages.png" : "Prepping Cages for Rockfish Recompression"
 ---
 My Master's research at California State University, Long Beach, under the direction of Dr. Chris Lowe, was focused on the effects of angling-induced barotrauma on rockfish survival. Barotrauma is another word for pressure-related injuries. The swim bladder that rockfishes use for buoyancy control is closed, so it can overinflate when a fish is rapidly reeled to the surface. It's similar to what happens to SCUBA divers that ascend to the surface too quickly...the gases in their blood and tissues can expand, causing pain and even death. Sometimes swim bladder expansion in fish is so severe that the swim bladder will rupture, causing damage to internal organs and forcing the stomach or esophagus to protrude from the mouth. Externally, the signs of barotrauma can be gruesome - gas bubbles on the skin and eyes, bulging eyes, a prolapsed cloaca. On top of all of that, the overinflated swimbladder prevents the fish from swimming back down to depth. It was thought that a fish with signs of barotrauma was most likely a goner, even if it was strong enough to overcome its positive buoyancy to swim back to the depths. 
 
