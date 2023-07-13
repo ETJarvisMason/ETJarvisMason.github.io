@@ -6,7 +6,7 @@ subtitle: to the southern California bass larvae
 cover-img: 
   - "img/big-img/Fig_3.png" : "Preflexion southern California _Paralabrax_ larvae / ET Jarvis Mason"
   - "img/big-img/SSB_edited.jpg" : "Flexion Spotted Sand Bass Larva / L. Bulkeley"
-  - "img/big-img/Paralabrax_11.png" : "Key to the southern California _Paralabrax_ larvae / ET Jarvis Mason"
+  - "img/big-img/Paralabrax_11.png" : "Key to the southern California bass larvae / ET Jarvis Mason"
 ---
 ## _**Decoding comparable morphologies: pigmentation validated for identifying southern California Paralabrax larvae**_
 
