@@ -26,11 +26,11 @@ navbar-links:
     - Master's Research: "rfbaro"
     - CDFW Research: "CDFW"
     - CDFW Policy: "policy"
-  Ph.D. Chapter Synopses:
-    - Population Dynamics: "bsb"    
+  Ph.D. Synopsis:
+    - BSB Population Dynamics: "bsb"    
     - Larval Paralabrax: "classification"
     - Taxonomic Quality Control: "qa"
-    - Larval Recruitment: "fish"
+    - Bass Larval Recruitment: "fish"
   CCFRP: "ccfrp"
   Fun Fact: "oarfish"
   CV: "https://ETJarvisMason.github.io/Resume_JULY_2023_5pp_ETMason.pdf"
