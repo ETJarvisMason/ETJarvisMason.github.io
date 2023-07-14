@@ -1,9 +1,11 @@
 ---
 layout: page
-title: The 2006 Oarfish at Catalina Island
-subtitle: 
+title: The Oarfish at Catalina Island
+subtitle: 16 Aug 2006
 cover-img: 
-  - "img/big-img/floaters.png" : "Floating Rockfish in Surface Holding Tank"
+  - "img/big-img/OarFishCat.jpg" : "An Unexpected Encounter"
+  - "img/big-img/oarfish2.jpg" : "At the NHMLAC / We meet again"
+  - "img/big-img/oarfish3.jpg" : "At the NHMLAC / We meet again"
 ---
 Have you visited the Natural History Museum of Los Angeles County? Have you heard of the Catalina Oarfish? No, that's not its real name and no, the shores of Catalina Island are not its home. The Oarfish, _Regalecus russelii_ (Cuvier, 1816) (Actinopterygii: Regalecidae) is oceanic, living hundreds of feet deep, and is the longest bony fish in the world! There have only been a total of nineteen verified oarfish strandings and sightings along the California coast, since 1901. In most of these cases, the fish washed ashore dead. 
 
@@ -13,5 +15,5 @@ Of course, all of these details of the first to witness the Oarfish were somehow
 
 Big thanks to Rick Feeney and Bob Lea's foresight to document records of all of the California Oarfish sightings and strandings since 1901. Based on their records, we know "our" Oarfish was 4.46 m (14.6 ft). ;) So cool!
 
-**California Records of the Oarfish** [2006 Oarfish]({% link pages/barotrauma14.pdf %}) 
+**California Records of the Oarfish** [2006 Oarfish]({% link pages/i0038-3872-117-3-169.pdf %}) 
 
