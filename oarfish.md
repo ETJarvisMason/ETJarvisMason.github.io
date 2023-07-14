@@ -27,4 +27,4 @@ _Oarfish have a long flattened, bladelike body and are named for their elongated
 
 _In life, oarfish are a brilliant silver color with bright blue and brown dots and streaks. The long dorsal fin and filamentous pelvic fins are bright red. The colors in this specimen have faded because of the ethanol in which the fish is stored. The pelvic fins on the fish were broken and been repaired for this exhibit."_
 
-_Oarfish are rarely seen at the surface and are reported from depths of at least 300 to 1,000 m (1000 to 3500 ft). They are known to eat euphausids (small, shrimp-like crustaceans), small fishes, and squid. Their par? shape allows them to hang vertically in the water column, as do other fishes with long thin bodies. Oarfish are thought to feed in this head down? position."_
+_Oarfish are rarely seen at the surface and are reported from depths of at least 300 to 1,000 m (1000 to 3500 ft). They are known to eat euphausids (small, shrimp-like crustaceans), small fishes, and squid. Their par? shape allows them to hang vertically in the water column, as do other fishes with long thin bodies. Oarfish are thought to feed in this head up position."_
