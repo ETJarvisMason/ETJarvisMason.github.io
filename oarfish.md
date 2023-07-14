@@ -17,7 +17,7 @@ Of course, all of these details of the first to witness the Oarfish were somehow
 
 Big thanks to Rick Feeney and Bob Lea's foresight to document records of all of the California Oarfish sightings and strandings since 1901. Based on their records, we know "our" Oarfish was 4.46 m (14.6 ft). ;) So cool!
 
-**California Records of the Oarfish** [2006 Oarfish]({% link pages/i0038-3872-117-3-169.pdf %}) 
+**California Records of the Oarfish** [Bull. Southern California Acad. Sci.117(3), 2018, pp. 169–179]({% link pages/i0038-3872-117-3-169.pdf %}) 
 
 Below is a copy of the text from the original museum caption (as best as I could gather from a photo):
 
