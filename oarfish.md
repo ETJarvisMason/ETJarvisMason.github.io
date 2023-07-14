@@ -21,7 +21,7 @@ Big thanks to Rick Feeney and Bob Lea's foresight to document records of all of 
 
 Below is a copy of the text from the original museum caption:
 
-_"On August 16, 2006, a large 4.4m (14.5 ft) silvery fish swam into Big Fisherman Cove at Catalina Island. It was identified as an oarfish by researchers from the Wrigley Marine Science Center located in the Cove, who were able to dive with and photograph the fish as it swam. They collected, froze and brought the fish by boat to the mainland where it was transported to the Natural History Museum of Los Angeles County.
+_"On August 16, 2006, a large 4.4m (14.5 ft) silvery fish swam into Big Fisherman Cove at Catalina Island. It was identified as an oarfish by researchers from the Wrigley Marine Science Center located in the Cove, who were able to dive with and photograph the fish as it swam. They collected, froze and brought the fish by boat to the mainland where it was transported to the Natural History Museum of Los Angeles County._
 
 Oarfish have a long flattened, bladelike body and are named for their elongated oar-like pelvic fins. They are the longest known bony fish; one fish was measured at 11 m (36 ft) long and 272 kg (nearly 600 lbs) in weight. Sightings of oarfish probably account for early reports of sea serpents.
 
