@@ -19,12 +19,12 @@ Big thanks to Rick Feeney and Bob Lea's foresight to document records of all of 
 
 **California Records of the Oarfish** [2006 Oarfish]({% link pages/i0038-3872-117-3-169.pdf %}) 
 
-Below is a copy of the text from the original museum caption:
+Below is a copy of the text from the original museum caption (as best as I could gather from a photo):
 
 _"On August 16, 2006, a large 4.4m (14.5 ft) silvery fish swam into Big Fisherman Cove at Catalina Island. It was identified as an oarfish by researchers from the Wrigley Marine Science Center located in the Cove, who were able to dive with and photograph the fish as it swam. They collected, froze and brought the fish by boat to the mainland where it was transported to the Natural History Museum of Los Angeles County._
 
 _Oarfish have a long flattened, bladelike body and are named for their elongated oar-like pelvic fins. They are the longest known bony fish; one fish was measured at 11 m (36 ft) long and 272 kg (nearly 600 lbs) in weight. Sightings of oarfish probably account for early reports of sea serpents._
 
-_In life, oarfish are a brilliant silver color with bright blue and brown dots and streaks. The long dorsal fin and filamentous pelvic fins are bright red. The colors in this specimen have faded because of the ethanol in which the fish is stored. The pelvic fins on the fish were broken and been repaired for this exhibit."_
+_In life, oarfish are a brilliant silver color with bright blue and brown dots and streaks. The long dorsal fin and filamentous pelvic fins are bright red. The colors in this specimen have faded because of the ethanol in which the fish is stored. The pelvic fins on the fish were broken and have been repaired for this exhibit."_
 
-_Oarfish are rarely seen at the surface and are reported from depths of at least 300 to 1,000 m (1000 to 3500 ft). They are known to eat euphausids (small, shrimp-like crustaceans), small fishes, and squid. Their par? shape allows them to hang vertically in the water column, as do other fishes with long thin bodies. Oarfish are thought to feed in this head up position."_
+_Oarfish are rarely seen at the surface and are reported from depths of at least 300 to 1,000 m (1000 to 3500 ft). They are known to eat euphausids (small, shrimp-like crustaceans), small fishes, and squid. Their par(?) shape allows them to hang vertically in the water column, as do other fishes with long thin bodies. Oarfish are thought to feed in this head (up?) position."_
