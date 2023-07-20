@@ -6,6 +6,15 @@ subtitle: Population Dynamics of Barred Sand Bass
 cover-img: 
   - "img/big-img/barredsandbassjn-L.jpg" : "Barred Sand Bass"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PCGRM6QCDX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PCGRM6QCDX');
+</script>
 Here, I unravel the complex drivers influencing the population dynamics of an important sportfish, once heavily targeted on its spawning aggregations.
 
 This research was supported with a QUEST grant awarded by NOAA Fisheries to B.X. Semmens. The following synopsis is taken from our manuscript, which is currently in revision for publication in _Marine Ecology Progress Series_. 
