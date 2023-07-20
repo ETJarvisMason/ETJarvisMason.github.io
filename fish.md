@@ -11,6 +11,15 @@ cover-img:
   - "img/big-img/ABacharBSB.jpg" : "Barred Sand Bass, by A. Bachar"
   - "img/big-img/ABacharKB.jpg" : "Kelp Bass, by A. Bachar"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PCGRM6QCDX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PCGRM6QCDX');
+</script>
 Here, we reconstruct the long-term population dynamics of southern California _Paralabrax_, in the face of a changing ocean. Collectively, our results pave the way for an ecosystem approach to the management of this fishery and bring us closer to readying the fishery for climate change.    
 
 This research was supported by a grant awarded by the California Ocean Protection Council (Proposition 84 Competitive Grant Program, Project R/OPCSFAQ-09) and administered by the California Sea Grant College Program. The following synopsis is taken from our manuscript, which is currently in preparation for publication submission.
