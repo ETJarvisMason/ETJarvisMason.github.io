@@ -7,6 +7,15 @@ cover-img:
   - "/img/big-img/BSB_redcrab_wide.jpg" : "Barred Sand Bass With Tuna Crab / CCFRP"
   - "/img/big-img/SumFun_CCFRPFishing_wide.jpg" : "Morning on the water for CCFRP / Erica Mason"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PCGRM6QCDX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PCGRM6QCDX');
+</script>
 During the first few years of my Ph.D. program, I led SIO’s California Collaborative Fisheries Research Program (CCFRP) under the direction of PIs Brice Semmens and Lyall Bellquist (TNC). The CCFRP is a standardized catch-and-release hook-and-line survey of nearshore groundfishes that is implemented statewide by six academic institutions and funded by California’s Ocean Protection Council. Beginning as an idea of Drs. Rick Starr (Moss Landing Marine Laboratories) and Dean Wendt (Cal Poly San Luis Obispo), the program was launched in 2006 off the Central Coast and was later established throughout the state beginning in 2017.
 
 CCFRP provides scientific data for fisheries management and evaluations of Marine Protected Area (MPA) performance.  Since it began, the program has trained numerous undergraduate and graduate students in collecting valuable fisheries science data at sea, interacting with the public and fisheries constituents, and how to manage and work with large data sets. I am so grateful for the opportunity to work with a great time of scientists, the angling public, and top-notch captains and crew of the southern California commercial sportfishing fleet aboard the F/Vs Sea Star, Sea Watch, Sum Fun, and Outer Limits. I'm also grateful for the many mentees with whom I have had the privilege of knowing and working. Whether you are a student, an avid angler, or just plain curious, I highly recommend volunteering on a CCFRP trip.
